@@ -29,3 +29,38 @@ background-position: bottom;
 .frase-1{
     background-color: yellow;
 }
+.prima-cella{
+    background-color: cornflowerblue;
+    width: 250px;
+    text-align: left;
+}
+.seconda-cella{
+    background-color: cornflowerblue;
+    width: 250px;
+    text-align: left;
+}
+.terza-cella{
+    background-color: cornflowerblue;
+    width: 250px;
+    text-align: left;
+}
+
+.prima-linea{
+
+    background-color: lightgray;
+    
+    
+}
+
+.seconda-linea{
+
+    background-color: white;
+    
+}
+
+.terza-linea{
+
+    background-color: lightgray;
+    
+}
+
