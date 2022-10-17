@@ -1,0 +1,10 @@
+.first-photo{
+    width: 220px;
+    margin: 50px;
+}
+.second-photo{
+    height: 300px;
+    width: 1000px;
+    margin: 100px;
+    background-color: cornflowerblue;
+}
