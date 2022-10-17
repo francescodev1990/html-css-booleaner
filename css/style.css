@@ -1,0 +1,15 @@
+.logo{ 
+   width: 150px;
+   background-image: url(../img/logo.svg);
+   height: 100px;
+background-repeat: no-repeat;
+background-position: bottom;
+
+}
+
+.pattern{
+    background-color: cornflowerblue; 
+    background-repeat: repeat-x;
+    background-image:url(../img/pattern.png);
+    height: 150px;
+}
