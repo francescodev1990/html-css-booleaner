@@ -13,3 +13,15 @@ background-position: bottom;
     background-image:url(../img/pattern.png);
     height: 150px;
 }
+
+.scrittore{
+    color: cornflowerblue ;
+}
+
+.descrizione{
+    font-size: small;
+}
+
+.descrizione-2{
+    font-size: small;
+}
