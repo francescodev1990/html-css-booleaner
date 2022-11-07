@@ -1,10 +1,9 @@
 .logo{ 
-   width: 150px;
-   background-image: url(../img/logo.svg);
-   height: 100px;
-background-repeat: no-repeat;
-background-position: bottom;
-
+    width: 150px;
+    background-image: url(../img/logo.svg);
+    height: 100px;
+    background-repeat: no-repeat;
+    background-position: bottom;
 }
 
 .pattern{
@@ -46,21 +45,15 @@ background-position: bottom;
 }
 
 .prima-linea{
-
     background-color: lightgray;
-    
     
 }
 
 .seconda-linea{
-
     background-color: white;
-    
 }
 
 .terza-linea{
-
     background-color: lightgray;
-    
 }
 
